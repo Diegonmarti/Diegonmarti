@@ -8,7 +8,7 @@ Decidí estudiar DAM y DAW porque son estudios muy prácticos, con infinitas pos
     </p><br/>
   </div>
 <div align="center">
-  <img src="https://github.com/Diegonmarti/assets/98549170/d9f3d599-5a28-4700-a2d7-0f0d241ff113" alt="Imagen de Diego" width="200" height="200"></div>
+  <img src="https://github.com/Diegonmarti/Diegonmarti/assets/98549170/659028b8-6904-4c56-9c05-68921d280d5b" alt="Imagen de Diego" width="200" height="200"></div>
 </div><br/>
 <p>
   Programar me permite ser una persona más creativa, analítica y resolutiva. Mi objetivo es seguir formándome y llegar a ser un gran programador.
