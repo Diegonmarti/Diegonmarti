@@ -1,4 +1,4 @@
-<img src="https://github.com/Diegonmarti/assets/98549170/01b1a535-0d68-4136-b6fa-8b591966ca3f" alt="Imagen de Diego">
+<img src="https://github.com/Diegonmarti/Diegonmarti/assets/98549170/9d8ccd95-2788-4239-b7dc-20113c5cc279" alt="Imagen de Diego">
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;"><br/>
     <p>
