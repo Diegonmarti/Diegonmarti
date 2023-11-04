@@ -2,28 +2,26 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;"><br/>
     <p>
-      😄 Hola, mi nombre es Diego González, tengo 20 años, soy estudiante del Instituto de Educación Superior Infanta Elena. Actualmente, estoy terminando el segundo curso del Grado Superior de Técnico en Desarrollo de Aplicaciones Web (DAW). En 2023 terminé el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
+      😄 Hola, mi nombre es Diego González, tengo 20 años, soy estudiante del Instituto de Educación Superior Infanta Elena. Actualmente, estoy cursando el segundo año del Grado Superior de Técnico en Desarrollo de Aplicaciones Web (DAW). En 2023 terminé el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-Decidí estudiar DAM y DAW porque son estudios muy prácticos, con infinitas posibilidades y salidas laborales. Me considero aplicado, responsable, con motivación alta y gran interés en el mundo de la informática.
+Decidí estudiar DAM y DAW porque son estudios muy prácticos, con infinitas posibilidades y salidas laborales, además de mi gran vocación desde pequeño. Soy una persona responsable, con gran impicación y motivación en lo que hace, y cuya pasión es el mundo de la informatica.
     </p><br/>
   </div>
 <div align="center">
   <img src="https://github.com/Diegonmarti/Diegonmarti/assets/98549170/659028b8-6904-4c56-9c05-68921d280d5b" alt="Imagen de Diego" width="200" height="200"></div>
 </div><br/>
 <p>
-  Programar me permite ser una persona más creativa, analítica y resolutiva. Mi objetivo es seguir formándome y llegar a ser un gran programador.
-  Por otro lado, me apasiona el mundo del deporte. Practico tenis desde los 12 años, además de atletismo y natación.
-</p>
-
+  Siempre he sido una persona creativa, analítica y resolutiva, por lo que programar me premite explotar estas virtudes más allá de los límites que me hubiera imaginado. Mi objetivo es seguir formándome y llegar a ser un gran programador.
+A nivel personal, me apasiona el mundo del deporte. Practico tenis desde los 12 años, además de atletismo y natación. Lo cual supone un gran contrapunto al sedentarismo de la programación, permitiéndome mantenerme concentrado y activo, durante largos periodos de tiempo</p>
 <p>
-  Voy a dejar por aquí algunas estadísticas y datos curiosos de mi GitHub:
+  a continuación os adjunto, algunas estadísticas y datos curiosos de mi GitHub:
 </p>
   
   [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegonmarti)](https://github.com/Diegonmarti)
 
-- 👨🏻‍💻 Mis conocimientos actuales son Java, JavaScript, PHP, Html, Css, XML, Python, SQL, VirtualBox, Odoo...
+- 👨🏻‍💻 Tengo conocimientos en Java, JavaScript, PHP, Html, Css, XML, Python, SQL, VirtualBox, Odoo...
 
-<p>Estos son algunos de los proyectos más interesantes que tengo subidos a mi GitHub.</p>
+<p>Os recomiendo echar un vistazo a algunos de los proyectos más interesantes que tengo subidos a mi GitHub.</p>
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/Diegonmarti/Proyecto-Encuentra-Pareja">
     <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegonmarti&repo=Proyecto-Encuentra-Pareja" />
