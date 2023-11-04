@@ -3,10 +3,10 @@
   <div style="flex: 1;">
     <br/>
     <p>
-      😄 Hola, mi nombre es Diego González, tengo 20 años, soy estudiante del Instituto de Educación Superior Infanta Elena. Actualmente, estoy cursando el segundo año del Grado Superior de Técnico en Desarrollo de Aplicaciones Web (DAW). En 2023 terminé el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
+      😄 Hola, mi nombre es Diego González, tengo 20 años, soy estudiante del Instituto de Educación Superior Infanta Elena. Actualmente estoy cursando el segundo año del Grado Superior de Técnico en Desarrollo de Aplicaciones Web (DAW). En 2023 terminé el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
     </p>
     <p>
-      Decidí estudiar DAM y DAW porque son estudios muy prácticos, con infinitas posibilidades y salidas laborales, además de mi gran vocación desde pequeño. Soy una persona responsable, con gran implicación y motivación en lo que hace, y cuya pasión es el mundo de la informática.
+      Decidí estudiar DAM y DAW porque son estudios que combinan ganar experiencia práctica a la vez que dar una sólida base de conocimiento en informática, mi gran pasión desde pequeño. Soy una persona responsable, resolutiva, con gran motivación en lo que hace y ganas de aprender. 
     </p>
     <br/>
   </div>
