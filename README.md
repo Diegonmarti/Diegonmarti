@@ -16,7 +16,7 @@
 </div>
 <br/>
 <p>
-  Siempre he sido una persona creativa, analítica y resolutiva, por lo que programar me permite explotar estas virtudes más allá de los límites que me hubiera imaginado. Mi objetivo es seguir formándome y llegar a ser un gran programador.
+  Siempre he sido creativo, analítico y resolutivo, por lo que programar me permite explotar estas virtudes más allá de los límites que me hubiera imaginado. Mi objetivo es seguir formándome y llegar a ser un gran programador.
 </p>
 <p>
   A nivel personal, me apasiona el mundo del deporte. Practico tenis desde los 12 años, además de atletismo y natación. Lo cual supone un gran contrapunto al sedentarismo de la programación, permitiéndome mantenerme concentrado y activo durante largos periodos de tiempo.
