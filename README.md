@@ -16,7 +16,7 @@
 </div>
 <br/>
 <p>
-  Porgramar me permite ser más creativo, resolutivo y analítico. Mi objetivo es seguir formándome y llegar a ser un gran programador.
+  Porgramar me enseña a ser más creativo, resolutivo y analítico. Mi objetivo es seguir formándome y llegar a ser un gran programador.
 </p>
 <p>
   A nivel personal, me apasiona el mundo del deporte. Practico tenis desde los 12 años, además de atletismo y natación. Lo cual supone un gran contrapunto al sedentarismo de la programación, permitiéndome mantenerme concentrado y activo durante largos periodos de tiempo.
