@@ -37,7 +37,7 @@
     <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegonmarti&repo=Proyecto-Encuentra-Pareja" />
   </a>
   <a href="https://github.com/Diegonmarti/Proyecto-Retos">
-    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegonmarti&repo=Proyecto-Retos" />
+    <img height=100 align="center" src="https://github.com/Diegonmarti/Proyecto-Retos-CDC" />
   </a>
 </div>
 <br/>
