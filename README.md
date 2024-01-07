@@ -55,7 +55,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonmarti)](https://github.com/Diegonmarti)
 
 </div>
-Para contactar conmigo:
 <div align="center">
 <a href="https://www.linkedin.com/in/diego-gonzalez-martinez-/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedln Diego">
