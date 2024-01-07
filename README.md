@@ -29,7 +29,8 @@
 <p>
   A continuación os adjunto algunas estadísticas y datos curiosos de mi GitHub:
 </p>
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegonmarti)](https://github.com/Diegonmarti)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegonmarti)](https://github.com/Diegonmarti)
+
 -  👨🏻‍💻 Tengo conocimientos en Java, JavaScript, PHP, Html, Css, XML, Python, SQL, VirtualBox, Odoo...
 
 <p>
