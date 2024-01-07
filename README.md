@@ -37,6 +37,7 @@
 <p>
   Os recomiendo echar un vistazo a algunos de los proyectos más interesantes que tengo subidos a mi GitHub.
 </p>
+<div align="center">
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/Diegonmarti/Proyecto-Encuentra-Pareja">
     <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegonmarti&repo=Proyecto-Encuentra-Pareja" />
@@ -46,6 +47,7 @@
   </a>
 </div>
 <br/>
+</div>
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonmarti)](https://github.com/Diegonmarti)
