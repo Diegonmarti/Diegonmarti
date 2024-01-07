@@ -1,4 +1,6 @@
+<a href="https://www.linkedin.com/in/diego-gonzalez-martinez-/">
 <img src="https://github.com/Diegonmarti/Diegonmarti/assets/98549170/9d8ccd95-2788-4239-b7dc-20113c5cc279" alt="Imagen de Diego">
+</a>
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
     <br/>
