@@ -11,7 +11,7 @@
     <br/>
   </div>
   <div align="center">
-    <img src="https://github.com/Diegonmarti/Diegonmarti/assets/98549170/2cd14eea-2a38-479b-8223-5d17c8fe5448" alt="Imagen de Diego" width="400" height="400">
+    <img src="https://github.com/Diegonmarti/Diegonmarti/assets/98549170/2cd14eea-2a38-479b-8223-5d17c8fe5448" alt="Imagen de Diego" width="400" height="400" href="https://www.linkedin.com/in/diego-gonzalez-martinez-/">
   </div>
 </div>
 <br/>
