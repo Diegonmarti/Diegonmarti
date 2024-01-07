@@ -11,7 +11,8 @@
     <br/>
   </div>
   <div align="center">
-    <img src="https://github.com/Diegonmarti/Diegonmarti/assets/98549170/659028b8-6904-4c56-9c05-68921d280d5b" alt="Imagen de Diego" width="200" height="200">
+    <img src="![Linkdln](https://github.com/Diegonmarti/Diegonmarti/assets/98549170/2c1a8e91-9a7c-479d-9c52-bd2af11926e2)
+" alt="Imagen de Diego" width="200" height="200">
   </div>
 </div>
 <br/>
