@@ -46,9 +46,11 @@
   </a>
 </div>
 <br/>
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonmarti)](https://github.com/Diegonmarti)
 
+</div>
 Para contactar conmigo:
 
 <a href="https://www.linkedin.com/in/diego-gonzalez-martinez-/">
