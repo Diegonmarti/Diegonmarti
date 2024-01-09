@@ -41,6 +41,14 @@
 </p>
 <div align="center">
 <div style="display: flex; justify-content: space-between;">
+<a href="https://github.com/Diegonmarti/TFG_DAM">
+    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegonmarti&repo=TFG_DAM" />
+  </a>
+  <a href="https://github.com/Diegonmarti/App_Web_Skin_Care_Routine">
+    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegonmarti&repo=App_Web_Skin_Care_Routine" />
+  </a>
+
+  
   <a href="https://github.com/Diegonmarti/Proyecto-Encuentra-Pareja">
     <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegonmarti&repo=Proyecto-Encuentra-Pareja" />
   </a>
