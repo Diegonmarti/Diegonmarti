@@ -45,7 +45,7 @@
     <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegonmarti&repo=TFG_DAM" />
   </a>
   <a href="https://github.com/Diegonmarti/App_Web_Skin_Care_Routine">
-    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegonmarti&repo=App_Web_Skin_Care_Routine" />
+    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegonmarti&repo=App_Web_Skin_Care_Routine" /><br>
   </a>
   <a href="https://github.com/Diegonmarti/Proyecto-Encuentra-Pareja">
     <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegonmarti&repo=Proyecto-Encuentra-Pareja" />
