@@ -42,7 +42,7 @@
 <div align="center">
 <div style="display: flex; justify-content: space-between;">
 <a href="https://github.com/Diegonmarti/TFG_DAW">
-    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegonmarti&repo=TFG_DAM" />
+    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegonmarti&repo=TFG_DAW" />
   </a>
   <a href="https://github.com/Diegonmarti/App_Web_Skin_Care_Routine">
     <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegonmarti&repo=App_Web_Skin_Care_Routine" /><br>
