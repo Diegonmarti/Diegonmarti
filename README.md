@@ -41,7 +41,7 @@
 </p>
 <div align="center">
 <div style="display: flex; justify-content: space-between;">
-<a href="https://github.com/Diegonmarti/TFG_DAM">
+<a href="https://github.com/Diegonmarti/TFG_DAW">
     <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegonmarti&repo=TFG_DAM" />
   </a>
   <a href="https://github.com/Diegonmarti/App_Web_Skin_Care_Routine">
